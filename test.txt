@@ -2,3 +2,4 @@ I added a line to this file
 Hello New line
 Hello me happy
 vyiguohipljbvkhjcgtufyguovcgyfiguohkvjhvkjblvhkjgcguohv
+Merge Conflict
